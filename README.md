@@ -6,3 +6,4 @@ https://my.vertabelo.com/public-model-view/PHBbHc1ZGgbLcuAD0D7qVHaVHldNvOnZSND2l
 
 S3 Mount, Extract, Load, Transform, Medallian Architecture, Analysis
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8994925019001909/3976802227805964/6953061282407583/latest.html
+
